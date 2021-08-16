@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CP380-B2-BlockWebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:CP380_B2_BlockWebAPI.Controllers.BlocksController.Get">
+            <summary>
+            Retrieve all the blocks in the chain
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CP380_B2_BlockWebAPI.Controllers.BlocksController.GetHash(System.String)">
+            <summary>
+            Retrieve a specific block
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CP380_B2_BlockWebAPI.Controllers.BlocksController.GetPayload(System.String)">
+            <summary>
+            Retrieve all payloads for a given block
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

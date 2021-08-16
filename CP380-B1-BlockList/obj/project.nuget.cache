@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "InQ+ZIl/wo/QaK4XqbZ8gGOVZWWFjy4/kcxBaAzfW6kWsk4rKgoj1iJ5ixGqPGnZxZ0cs+C+2bPjct+KGxpN9w==",
+  "success": true,
+  "projectFilePath": "D:\\sem 4\\dotnet\\B1\\CP380-B2-BlockWebAPI-master\\CP380-B1-BlockList\\CP380-B1-BlockList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.0\\microsoft.identitymodel.logging.6.12.0.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.0\\microsoft.identitymodel.tokens.6.12.0.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

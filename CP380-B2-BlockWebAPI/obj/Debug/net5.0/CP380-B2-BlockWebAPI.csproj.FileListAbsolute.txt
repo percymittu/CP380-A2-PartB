@@ -1,0 +1,70 @@
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\appsettings.json
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\CP380-B2-BlockWebAPI.exe
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\CP380-B2-BlockWebAPI.deps.json
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\CP380-B2-BlockWebAPI.runtimeconfig.json
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\CP380-B2-BlockWebAPI.runtimeconfig.dev.json
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\CP380-B2-BlockWebAPI.dll
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\ref\CP380-B2-BlockWebAPI.dll
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\CP380-B2-BlockWebAPI.pdb
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\CP380-B2-BlockWebAPI.xml
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\CP380-B1-BlockList.dll
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\CP380-B1-BlockList.pdb
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.csproj.AssemblyReference.cache
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.AssemblyInfoInputs.cache
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.AssemblyInfo.cs
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.csproj.CoreCompileInputs.cache
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\staticwebassets\CP380-B2-BlockWebAPI.StaticWebAssets.Manifest.cache
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\staticwebassets\CP380-B2-BlockWebAPI.StaticWebAssets.xml
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\scopedcss\bundle\CP380-B2-BlockWebAPI.styles.css
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.RazorTargetAssemblyInfo.cache
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.csproj.CopyComplete
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.dll
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\ref\CP380-B2-BlockWebAPI.dll
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.xml
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.pdb
+E:\Heema\2\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.genruntimeconfig.cache
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\appsettings.json
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\CP380-B2-BlockWebAPI.exe
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\CP380-B2-BlockWebAPI.deps.json
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\CP380-B2-BlockWebAPI.runtimeconfig.json
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\CP380-B2-BlockWebAPI.runtimeconfig.dev.json
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\CP380-B2-BlockWebAPI.dll
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\ref\CP380-B2-BlockWebAPI.dll
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\CP380-B2-BlockWebAPI.pdb
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\CP380-B2-BlockWebAPI.xml
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\CP380-B1-BlockList.dll
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\bin\Debug\net5.0\CP380-B1-BlockList.pdb
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.csproj.AssemblyReference.cache
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.AssemblyInfoInputs.cache
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.AssemblyInfo.cs
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.csproj.CoreCompileInputs.cache
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\staticwebassets\CP380-B2-BlockWebAPI.StaticWebAssets.Manifest.cache
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\staticwebassets\CP380-B2-BlockWebAPI.StaticWebAssets.xml
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\scopedcss\bundle\CP380-B2-BlockWebAPI.styles.css
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.RazorTargetAssemblyInfo.cache
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.csproj.CopyComplete
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.dll
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\ref\CP380-B2-BlockWebAPI.dll
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.xml
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.pdb
+D:\sem 4\dotnet\B1\CP380-B2-BlockWebAPI-master\CP380-B2-BlockWebAPI\obj\Debug\net5.0\CP380-B2-BlockWebAPI.genruntimeconfig.cache
